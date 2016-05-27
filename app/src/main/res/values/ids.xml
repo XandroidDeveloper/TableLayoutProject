@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="txt_address" type="id"></item>
+    <item name="txt_phone" type="id"></item>
+    <item name="submitB" type="id"></item>
+    <item name="cancelB" type="id"></item>
+    <item name="txt_rollno" type="id"></item>
+    <item name="txt_name" type="id"></item>
+
+</resources>

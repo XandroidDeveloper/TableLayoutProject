@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">TableLayoutProject</string>
+    <string name="userName">Name</string>
+    <string name="rollNo">RollNo</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone Number</string>
+    <string name="submitInfo">Submit</string>
+    <string name="cancelInfo">Cancel</string>
+
+</resources>
